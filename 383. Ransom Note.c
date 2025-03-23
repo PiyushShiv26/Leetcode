@@ -27,6 +27,8 @@ Constraints:
 ransomNote and magazine consist of lowercase English letters.
 */
 
+
+
 #include <stdio.h>
 #include <stdbool.h>
 #include <string.h>
