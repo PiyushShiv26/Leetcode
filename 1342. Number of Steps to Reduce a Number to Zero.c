@@ -31,6 +31,10 @@ Example 3:
 
 Input: num = 123
 Output: 12
+
+Constraints:
+
+0 <= num <= 10^6
 */
 
 
